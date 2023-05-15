@@ -1,3 +1,4 @@
+---
 component-id: broadcast-concerts-docs-blog
 type: Documentation
 name: Broadcast Concerts blog
@@ -12,6 +13,8 @@ contributors:
 - Willem Melder
 - Mari Wigham
 - Govert Brinkmann
-- reuses:
+reuses:
   - broadcast-concerts-sparql-endpoint
   - braodcast-concerts-knowledge-graph
+
+---
