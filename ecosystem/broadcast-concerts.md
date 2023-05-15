@@ -1,3 +1,4 @@
+---
 component-id: broadcast-concerts-knowledge-graph
 type: KnowledgeGraph
 name: Broadcast Concerts Knowledge Graph
@@ -15,14 +16,15 @@ contributors:
 - Willem Melder
 - Mari Wigham
 - Govert Brinkmann
-- documentation: 
+documentation: 
   - broadcast-concerts-docs-melody
   - broadcast-concerts-docs-blog
-- reuses:
+reuses:
   - https://schema.org
   - broadcast-concerts-sparql-endpoint
-- story:
+story:
   - William: Curator Europeana/William#1EuropeanFolkMusic.md
-- persona:
+persona:
   - William: Curator Europeana
 
+---
