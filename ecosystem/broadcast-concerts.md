@@ -16,3 +16,11 @@ contributors:
 - documentation: 
   - broadcast-concerts-docs-melody
   - broadcast-concerts-docs-blog
+- reuses:
+  - https://schema.org
+  - broadcast-concerts-sparql-endpoint
+- story:
+  - William: Curator Europeana/William#1EuropeanFolkMusic.md
+- persona:
+  - William: Curator Europeana
+
