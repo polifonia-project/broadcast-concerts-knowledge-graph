@@ -7,7 +7,7 @@ work-package:
 pilot:
 - Interlink
 project: polifonia-project
-resource: 
+resource: https://projects.dharc.unibo.it/melody/sound_and_vision/dutch_broadcast_concert_collection
 contributors:
 - Willem Melder
 - Mari Wigham
