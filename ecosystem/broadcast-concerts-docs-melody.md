@@ -1,3 +1,4 @@
+---
 component-id: broadcast-concerts-docs-melody
 type: Documentation
 name: Broadcast Concerts Data Story
@@ -12,6 +13,7 @@ contributors:
 - Willem Melder
 - Mari Wigham
 - Govert Brinkmann
-- reuses:
+reuses:
   - broadcast-concerts-sparql-endpoint
-  - braodcast-concerts-knowledge-graph
+  - broadcast-concerts-knowledge-graph
+---
