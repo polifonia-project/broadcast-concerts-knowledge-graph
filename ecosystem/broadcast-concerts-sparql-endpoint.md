@@ -2,6 +2,7 @@ component-id: broadcast-concerts-sparql-endpoint
 type: SPARQLEndpoint
 name: NISV SPARQL Endpoint
 description: The SPARQL endpoint that publishes NISV linked data, including that of the broadcast concerts
+resource: https://cat.apis.beeldengeluid.nl/
 work-package: 
 - WP2
 pilot:
@@ -14,4 +15,6 @@ contributors:
 - Govert Brinkmann
 - reuses:
   - https://schema.org
+- serves:
+  - broadcast-concerts-knowledge-graph
 
