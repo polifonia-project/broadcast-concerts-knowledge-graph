@@ -14,9 +14,10 @@ contributors:
 - Willem Melder
 - Mari Wigham
 - Govert Brinkmann
-reuses:
+related-components:
+- reuses:
   - https://schema.org
-serves:
+- serves:
   - broadcast-concerts-knowledge-graph
 ---
 
