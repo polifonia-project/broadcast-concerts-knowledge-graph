@@ -13,7 +13,8 @@ contributors:
 - Willem Melder
 - Mari Wigham
 - Govert Brinkmann
-reuses:
+related-components:
+- reuses:
   - broadcast-concerts-sparql-endpoint
   - broadcast-concerts-knowledge-graph
 ---
